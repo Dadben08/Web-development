@@ -1,0 +1,34 @@
+body{
+    margin: 70px;
+    padding: 10%;
+    background-color: rgb(224,236,239);
+}
+
+#Get{
+    border-color: black;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+
+}
+.btn1{
+    height: 50px;
+    width: 50px;
+    color: white;
+    background-color: black;
+}
+
+.PARA{
+    color: white;
+    background-color: white;
+    border-color: black;
+
+}
+
+.navbar-brand, img{
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
